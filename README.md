@@ -4,7 +4,7 @@
   
 **Current Job:**  
 Mobile App Engineer  
-<a href="www.oorth.me" target="_blank">
+<a href="https://www.oorth.me" target="_blank">
   <img src="https://github.com/triopu/triopu/blob/master/logo-oorth.png" alt="drawing" width="70"/>
 </a>  
   
