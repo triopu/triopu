@@ -3,7 +3,7 @@
 **Trio Pambudi Utomo**  
   
 **Current Job:**  
-Mobile App Engineer  
+Mobile Apps Engineer  
 <a href="https://www.oorth.me" target="_blank">
   <img src="https://github.com/triopu/triopu/blob/master/logo-oorth.png" alt="drawing" width="70"/>
 </a>  
