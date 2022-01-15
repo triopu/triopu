@@ -4,8 +4,8 @@
   
 **Current Job:**  
 Mobile Apps Engineer  
-<a href="https://www.oorth.me" target="_blank">
-  <img src="https://github.com/triopu/triopu/blob/master/logo-oorth.png" alt="drawing" width="70"/>
+<a href="https://cranium.id/" target="_blank">
+  <img src="https://cranium.id/assets/web/images/logo-cranium-black.png" alt="drawing" width="70"/>
 </a>  
   
 **Interest:**  
